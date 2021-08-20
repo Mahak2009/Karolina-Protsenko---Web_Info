@@ -121,8 +121,23 @@ p {
 }
 
 #Work {
-     background: linear-gradient(#fdffe0 0%, #f4f7bc 100%);
+    background: linear-gradient(#fdffe0 0%, #f4f7bc 100%);
 }
+
 #Inspiration {
     background: linear-gradient(#f8e3ff 0%, #eec7fc 100%);
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    color: black;
+    text-shadow: none;
+
 }
